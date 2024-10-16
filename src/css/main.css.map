@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "sources": [
+    "../scss/_header.scss",
+    "../scss/_variables.scss",
+    "main.css",
+    "../scss/_mixins.scss",
+    "../scss/_footer.scss",
+    "../scss/main.scss"
+  ],
+  "names": [],
+  "mappings": "AAGA;EACI,yBCHY;EDIZ,YAAA;EACA,aAAA;AEFJ;AFGI;EACI,SAAA;AEDR;AFIQ;EGTJ,aAAA;EACA,uBAAA;EACA,mBAAA;EHSQ,gBAAA;EACA,UAAA;AEAZ;AFCY;EACI,cAAA;AEChB;AFAgB;EACI,YAAA;EACA,qBAAA;AEEpB;;AElBA;EACI,yBHFc;EGGd,YAAA;EACA,aAAA;EACA,kBAAA;AFqBJ;;AGvBA;EACE,yCJHW;EIIX,SAAA;AH0BF;;AGxBA;EACE,aAAA;AH2BF;AG1BE;EACE,yBAAA;EACA,aAAA;EACA,kBAAA;AH4BJ;AG3BI;EACE,cJfU;AC4ChB",
+  "file": "main.css"
+}
